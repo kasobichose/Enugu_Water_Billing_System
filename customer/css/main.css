@@ -1,0 +1,59 @@
+
+.StyleTxtField2{
+border:1px solid #666;
+border-radius:6px;
+width:285px;
+height:35px;
+font-family:Arial, Helvetica, sans-serif;
+padding-left:6px;
+}
+#submit{
+	border: 1px solid green;
+	background: #00693e;
+	color: white;
+	border-radius: 5px;	
+	padding: 10px;
+}
+#text{
+color:#038d44;
+font-family: 'wf_segoeUILight', 'Segoe UI Light', 'Segoe UI', 'Segoe WP Light','Tahoma', Arial, verdana, sans-serif;
+    font-weight: 300;
+    font-size: 20px;	
+}
+#login_div{
+padding: 20px;
+width:330px;
+height:auto;
+-webkit-border-radius:25px;
+max-width:100%;
+margin-top:50px;
+margin-left:10px;
+box-shadow: 1px  1px 4px rgba(0,0,0,.7)
+}
+#login_div2{
+padding: 20px;
+width:330px;
+height:auto;
+-webkit-border-radius:25px;
+max-width:100%;
+margin-top:50px;
+margin-left:10px;
+box-shadow: 1px  1px 4px rgba(0,0,0,.7)
+}
+#login_div3{
+padding: 20px;
+width:330px;
+height:auto;
+-webkit-border-radius:25px;
+max-width:100%;
+margin-top:50px;
+margin-left:10px;
+box-shadow: 1px  1px 4px rgba(0,0,0,.7)
+}
+
+.my-background2{
+		background: #04489a 100px center;
+		background-size:50px 50px;
+		margin-bottom:30px;
+	 }
+
